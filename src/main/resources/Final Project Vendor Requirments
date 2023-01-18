@@ -1,0 +1,21 @@
+1.Vendor-Car owner (Keep up with existing or new Inventory along with detail and price)(10)
+--------
+
+a)	Registration of a new Vendor
+
+Parameters for New Vendor:  Create Account -Tab - (F NAME, L NAME, Company Name, ADDRESS, EMAIL, PHONE, PASSWORD, Confirm password, Operating City )
+b)	Vendor Login: using Spring boot authentication
+
+Parameters to pass:-->  User Name, Password (For existing Vendor)
+
+c)	Dashboard : Add multiple bottons [Navigation bar] Numeber of trips, num of total earnings, num of customer served
+	Rating,
+
+d)	Adding new car information  : [Car model, year, seating capacity, reg. number, image of the car, / can add multiple car ]
+	charge per kilo meter, minimum kilo meter charge, Driver charge
+
+e)	Driver Registration : [Name, address, contact number, DL , Blood group]
+
+f)	My Trips: Trip Notification to vendor (Admin)
+(i)Declined : Declined message will go to admin.
+(ii)Accepted : if accepted (Alien driver with trip and respond back then a notification will go to the drivre and admin.
